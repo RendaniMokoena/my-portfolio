@@ -12,3 +12,6 @@ Hi! My name is Rendani. I am learning about coding and version control.
 
 ## My Projects
 I will add my projects here soon!
+
+## My Favourite Project
+This is a placeholder for my future amazing project!
