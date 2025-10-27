@@ -3,7 +3,7 @@ This is my learning portfolio
 # Welcome to My Portfolio!
 
 ## My Bio
-Hi! My name is [Rendani]. I am learning about coding and version control.
+Hi! My name is Rendani. I am learning about coding and version control.
 
 ## My Learning Goals
 - Learn HTML and CSS.
